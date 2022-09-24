@@ -1,0 +1,26 @@
+/*body*/
+.body{	
+	display: flex;
+	font-family: 'Poppins';
+	width: 100%;
+}
+
+.body .left{
+	width: 70%;
+	overflow: hidden;
+	background-color: white;
+	box-shadow: 0px 1px 8px;
+	border-radius: 32px;
+	margin: 50px 15px 30px;
+	padding: 70px 0  70px 95px;
+
+}
+
+
+/*Kategory*/
+.body .left .p6{
+	color: black;
+	font-size: 29px; 
+	font-weight: bold;
+	font-family: 'Roboto';
+}
